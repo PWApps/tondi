@@ -7,4 +7,4 @@ This is sattelite repository for article first published on Habr.
 
 
 
-Link to lottery: https://ton-roulette.fun
+Link to lottery: https://ton.fun
